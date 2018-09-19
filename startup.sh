@@ -1,4 +1,7 @@
 #!/bin/bash
 # script for installing zookeeper
 
-# script for installing kafka 
+#testing add
+#step 2 stuff
+
+# script for installing kafka
